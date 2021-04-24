@@ -10,4 +10,4 @@ and CMake 3.5 or above are necessary.
 
 # Contributing
 
-See also [CONTRIBUTING](CONTRIBUTING)
+See also [CONTRIBUTING](CONTRIBUTING.md)
