@@ -6,4 +6,4 @@
 + Open a pull request on the base pull request
 + Waiting for merging
 
-See also [README](README)
+See also [README](README.md)
